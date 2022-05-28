@@ -152,8 +152,12 @@ section h2 {
 }
 
 .space {
-  word-spacing: 5.5px;
+  word-spacing: 1px;
 }
+.space1 {
+  word-spacing: 2.5px;
+}
+
 quote {
   height: auto;
   background-color: #e5e7eb;
